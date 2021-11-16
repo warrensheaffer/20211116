@@ -12,6 +12,13 @@
 #include <stdio.h>
 #include "lstructures.h"
 
+
+/*
+ * Now exercise each of the member functions to this project
+ */
+
+
+
 int main(void)
 {
 
